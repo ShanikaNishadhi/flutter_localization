@@ -1,0 +1,16 @@
+{
+  "@@locale": "en_US",
+  "homePageAppBarTitle": "Home Page",
+  "homePageMainFormTitle": "Personal Information",
+  "formFieldName": "Name",
+  "formFieldNameHint": "Enter your name",
+  "formFieldEmail": "Email",
+  "formFieldEmailHint": "Enter your email",
+  "formFieldDOB": "Date of Birth",
+  "formFieldRequired": "Required Field",
+  "formFieldSubmitInfo": "Submit Info",
+  "aboutUsPageAppBarTitle": "About Us",
+  "settingsPageAppBarTitle": "Settings",
+  "formFieldChangeLanguage": "Change Language",
+  "formFieldAbout": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+}

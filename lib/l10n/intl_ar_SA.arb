@@ -1,0 +1,16 @@
+{
+  "@@locale": "ar_SA",
+  "homePageAppBarTitle": "الصفحة الرئيسية",
+  "homePageMainFormTitle": "معلومات شخصية",
+  "formFieldName": "اسم",
+  "formFieldNameHint": "أدخل أسمك",
+  "formFieldEmail": "البريد الإلكتروني",
+  "formFieldEmailHint": "أدخل بريدك الإلكتروني",
+  "formFieldDOB": "تاريخ الولادة",
+  "formFieldRequired": "يتطلب حقلا",
+  "formFieldSubmitInfo": "إرسال المعلومات",
+  "aboutUsPageAppBarTitle": "معلومات عنا",
+  "settingsPageAppBarTitle": "إعدادات",
+  "formFieldChangeLanguage": "تغيير اللغة",
+  "formFieldAbout": "لوريم إيبسوم هو ببساطة نص شكلي يستخدم في صناعة الطباعة والتنضيد. كان Lorem Ipsum هو النص الوهمي القياسي في الصناعة منذ القرن الخامس عشر الميلادي."
+}

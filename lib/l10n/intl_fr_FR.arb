@@ -1,0 +1,16 @@
+{
+  "@@locale": "fr_FR",
+  "homePageAppBarTitle": "Page d'accueil",
+  "homePageMainFormTitle": "Informations personnelles",
+  "formFieldName": "Nom",
+  "formFieldNameHint": "Entrez votre nom",
+  "formFieldEmail": "Email",
+  "formFieldEmailHint": "Entrer votre Email",
+  "formFieldDOB": "Date de naissance",
+  "formFieldRequired": "Champs requis",
+  "formFieldSubmitInfo": "Soumettre des informations",
+  "aboutUsPageAppBarTitle": "À propos de nous",
+  "settingsPageAppBarTitle": "Réglages",
+  "formFieldChangeLanguage": "Changer de langue",
+  "formFieldAbout": "Lorem Ipsum est simplement un texte factice de l'industrie de l'impression et de la composition. Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500."
+}
