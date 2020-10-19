@@ -43,14 +43,14 @@ class _MyAppState extends State<MyApp> {
       return Container(
         child: Center(
           child: CircularProgressIndicator(
-              valueColor: AlwaysStoppedAnimation<Color>(Colors.blue[800])),
+              valueColor: AlwaysStoppedAnimation<Color>(Colors.purple[800])),
         ),
       );
     } else {
       return MaterialApp(
         debugShowCheckedModeBanner: false,
         title: "Flutter Localization Demo",
-        theme: ThemeData(primarySwatch: Colors.blue),
+        theme: ThemeData(primarySwatch: Colors.purple),
         locale: _locale,
         supportedLocales: S.delegate.supportedLocales,
         localizationsDelegates: [
